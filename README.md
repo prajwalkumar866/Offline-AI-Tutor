@@ -1,3 +1,3 @@
-# Offline-AI-Tutor
+Offline Tutor – Study Companion App”
 Your pocket study companion — learn anytime, anywhere, even without internet.
-Code → Codespaces → Create codespace on main
+⭐ If you like this project, consider starring it
