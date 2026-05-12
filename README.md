@@ -1,2 +1,2 @@
 # Offline-AI-Tutor
-work withou internet
+Your pocket study companion — learn anytime, anywhere, even without internet.
